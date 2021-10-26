@@ -1,0 +1,59 @@
+.top {
+    height: 10%;
+    width: 100%;
+    background-color: grey;
+    position: fixed;
+    top: 0%;
+}
+
+.paragraph{
+    background-color: oldlace;
+    height: 30%;
+    width: 100%;
+    position: fixed;
+    top: 10%;
+}
+
+.blue {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 40%;
+    background-color: blue;
+}
+
+.green {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 55%;
+    background-color: mediumaquamarine;
+
+}
+
+.lightgreen{
+
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 70%;
+    background-color: lightgreen;
+}
+
+.yellow {
+    height: 15%;
+    width: 100%;
+    position: fixed;
+    top: 85%;
+    background-color:yellow;
+}
+
+.bluebox{
+    position: relative;
+    top: 25%;
+    left: 3%;
+    color: blue;
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+}
